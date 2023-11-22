@@ -1,4 +1,4 @@
-public class addition {
+public class J_02_addition {
     public static void main(String args[]) {
         int a, b, sum;
         a = 6;
